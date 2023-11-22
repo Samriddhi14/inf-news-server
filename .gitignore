@@ -3,6 +3,3 @@
 
 # environment_variables
 /.env
-
-# package-lock
-/package-lock.json
